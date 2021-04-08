@@ -29,3 +29,11 @@ p {
     font-size: 16px;
     text-decoration: underline;
 }
+
+.footer--copyright {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
